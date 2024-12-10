@@ -6,7 +6,7 @@
   "scripts": {
     "cy:run": "cypress run",
     "cy:open": "cypress open",
-    "cy:run-ci": "cypress run --record --key 36421ed6-2c47-480e-8c02-6a78ed48a321"
+    "cy:run-ci": "cypress run --record --key ca45688e-f2b3-4f32-85e8-ea8f9e78f369"
   },
   "keywords": [],
   "author": "",
