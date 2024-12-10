@@ -7,6 +7,8 @@
     "cy:run": "cypress run",
     "cy:open": "cypress open",
     "cy:run-ci": "cypress run --record --key ca45688e-f2b3-4f32-85e8-ea8f9e78f369"
+    "build": "npm run build:cypress"
+    "start": "npm run cypress:test"
   },
   "keywords": [],
   "author": "",
